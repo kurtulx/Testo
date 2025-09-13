@@ -1,4 +1,4 @@
-name = "final-siren"
+name = "final-sirna"
 main = "build/worker/shim.mjs"
 compatibility_date = "2024-05-23"
 minify = true
@@ -7,12 +7,8 @@ workers_dev = true
 
 routes = [
 
-  { pattern = "xnxx.skibidicx.web.id", custom_domain = true },
-  { pattern = "support.zoom.us.xnxx.skibidicx.web.id", custom_domain = true },
-  { pattern = "ava.game.naver.com.xnxx.skibidicx.web.id", custom_domain = true },
-  { pattern = "graph.instagram.com.xnxx.skibidicx.web.id", custom_domain = true },
-  { pattern = "df.game.naver.com.xnxx.skibidicx.web.id", custom_domain = true },
-  { pattern = "zoomgov.com.xnxx.skibidicx.web.id", custom_domain = true }
+  { pattern = "zax.skibidicx.web.id", custom_domain = true },
+  { pattern = "support.zoom.us.zax.skibidicx.web.id", custom_domain = true }
   ]
 
 [[kv_namespaces]]
